@@ -1,4 +1,4 @@
-# ziv-s-Discord-Bot
+# ziv's Discord Bot
 Fully Source Code - Easy to run &amp; use. Release SOON.
 
 # Features >
